@@ -1,0 +1,38 @@
+﻿@model Client
+
+@{
+    ViewBag.Title = "Create Clients";
+}
+
+<h3>@ViewBag.Title</h3>
+<hr />
+
+    <form action="CreateClients" method="post">
+    <div class="form-group">
+        <label for="formGroupExampleInput">Full Name</label>
+        <input asp-for="Fullname" type="text" class="form-control" id="formGroupExampleInput" placeholder="Full Name">
+        <span asp-validation-for="Fullname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="formGroupExampleInput">Username</label>
+        <input asp-for="Username" type="text" class="form-control" id="formGroupExampleInput" placeholder="Username">
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div> 
+
+    <div class="form-group">
+        <label for="formGroupExampleInput">Password</label>
+        <input asp-for="Password" type="password" class="form-control" id="formGroupExampleInput" placeholder="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="formGroupExampleInput">Phone</label>
+        <input asp-for="Phone" type="text" class="form-control" id="formGroupExampleInput" placeholder="Phone">
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <div class="d-grid">
+        <button type="submit" class="btn btn-dark">Create</button>
+    </div>    
+    </form>

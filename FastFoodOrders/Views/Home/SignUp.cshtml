@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+<div class="bg-dark">
+<form asp-controller="home" asp-action="login" method="post">
+        <div class="container register">
+        <div class="row">
+            <div class="col-md-3 register-left">
+                    <img src="~/images/icons/hamburger-100.png" />
+                <h3>Welcome</h3>
+                <p>You are 30 seconds away from earning your own money!</p>
+            </div>
+            <div class="col-md-9 register-right ">
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <h3 class="register-heading">Login</h3>
+                        <div class="row register-form">
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Username" value="" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+                                    <input type="password" class="form-control" placeholder="Password" value="" />
+                                </div>
+                                <input type="submit" class="btnRegister" value="Register" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</div>

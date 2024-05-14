@@ -1,0 +1,1833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FastFoodOrders.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FastFoodOrders.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\css\\style.css",
+      "PackagePath": "staticwebassets\\Home\\css\\style.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\hero.png",
+      "PackagePath": "staticwebassets\\Home\\img\\hero.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\Home\\img\\video.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\js\\main.js",
+      "PackagePath": "staticwebassets\\Home\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Home\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Home\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\Home\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Home\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\4fbeff98-28d8-485e-9867-74351a2ba792_about-img.png",
+      "PackagePath": "staticwebassets\\images\\4fbeff98-28d8-485e-9867-74351a2ba792_about-img.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\9181cb96-d79c-4b3c-a464-6b5f346f4bdf_free.png",
+      "PackagePath": "staticwebassets\\images\\9181cb96-d79c-4b3c-a464-6b5f346f4bdf_free.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\933a7fca-7780-46f6-9784-0ff13d111cbe_Tea-PNG-Image.png",
+      "PackagePath": "staticwebassets\\images\\933a7fca-7780-46f6-9784-0ff13d111cbe_Tea-PNG-Image.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\9b2a2ec8-4f8d-47d5-bb84-a0e5559c59f3_hamburgerrr.png",
+      "PackagePath": "staticwebassets\\images\\9b2a2ec8-4f8d-47d5-bb84-a0e5559c59f3_hamburgerrr.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\burger.jpg",
+      "PackagePath": "staticwebassets\\images\\burger.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\burgerr.png",
+      "PackagePath": "staticwebassets\\images\\burgerr.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\d9bc74bc-48c9-4a03-b343-8bff18d75a56_pngimg.com - mug_coffee_PNG16844.png",
+      "PackagePath": "staticwebassets\\images\\d9bc74bc-48c9-4a03-b343-8bff18d75a56_pngimg.com - mug_coffee_PNG16844.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\d9cba9f5-17dc-441c-a858-fafbfb7e0918_food.png",
+      "PackagePath": "staticwebassets\\images\\d9cba9f5-17dc-441c-a858-fafbfb7e0918_food.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\fastfoodcreate.png",
+      "PackagePath": "staticwebassets\\images\\fastfoodcreate.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\fb625ecc-ec92-453b-bf54-2faabdab3a0c_pngimg.com - pizza_PNG43989.png",
+      "PackagePath": "staticwebassets\\images\\fb625ecc-ec92-453b-bf54-2faabdab3a0c_pngimg.com - pizza_PNG43989.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\food.png",
+      "PackagePath": "staticwebassets\\images\\food.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\free.png",
+      "PackagePath": "staticwebassets\\images\\free.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\hamburgerrr.png",
+      "PackagePath": "staticwebassets\\images\\hamburgerrr.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\addbasket24.png",
+      "PackagePath": "staticwebassets\\images\\icons\\addbasket24.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\burgericon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\burgericon.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\buying.png",
+      "PackagePath": "staticwebassets\\images\\icons\\buying.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\hamburger-100.png",
+      "PackagePath": "staticwebassets\\images\\icons\\hamburger-100.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\hamburger.png",
+      "PackagePath": "staticwebassets\\images\\icons\\hamburger.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\iconburger.png",
+      "PackagePath": "staticwebassets\\images\\icons\\iconburger.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\iconphone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\iconphone.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\icons8-user-48.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icons8-user-48.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\logoburger.png",
+      "PackagePath": "staticwebassets\\images\\icons\\logoburger.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\signupuser.png",
+      "PackagePath": "staticwebassets\\images\\icons\\signupuser.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\staff.png",
+      "PackagePath": "staticwebassets\\images\\icons\\staff.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\user.png",
+      "PackagePath": "staticwebassets\\images\\icons\\user.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\поиск.png",
+      "PackagePath": "staticwebassets\\images\\icons\\поиск.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\icons\\полная-корзина-96.png",
+      "PackagePath": "staticwebassets\\images\\icons\\полная-корзина-96.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\images\\photofastfood.jpg",
+      "PackagePath": "staticwebassets\\images\\photofastfood.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\hero.png",
+      "PackagePath": "staticwebassets\\img\\hero.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\video.jpg"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\aspnet\\FastFoodOrders\\FastFoodOrders\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FastFoodOrders.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FastFoodOrders.props",
+      "PackagePath": "build\\FastFoodOrders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FastFoodOrders.props",
+      "PackagePath": "buildMultiTargeting\\FastFoodOrders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FastFoodOrders.props",
+      "PackagePath": "buildTransitive\\FastFoodOrders.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

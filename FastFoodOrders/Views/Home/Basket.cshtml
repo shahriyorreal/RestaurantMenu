@@ -1,0 +1,47 @@
+﻿@model FoodViewModel
+
+@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+}
+
+<h1 align="center" style="color:white"><img src="~/images/icons/полная-корзина-96.png" width="50" /> Корзина </h1>
+
+
+        
+                <table class="table table-dark">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Photo Food</th>
+                        <th scope="col">Name Food</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                    </tr>
+                </thead>
+                <tbody>
+        @foreach (var food in Model.Foods)
+        {
+
+            var photoFilePath = "~/images/" + (food.PhotoFilePath ?? "burgericon.png");
+
+            if (food.PhotoFilePath == "")
+            {
+                photoFilePath = "~/images/icons/burgericon.png";
+            }
+                    <tr>
+                        <th scope="row">1</th>
+                        <td><img width="50px" height="50px" src="@photoFilePath" asp-append-version="true" /></td>
+                        <td>@food.Name</td>
+                        <td>@food.Price</td>
+
+                        <td class="quantityyy"> <span class="minus">-</span> 3 <span class="plus">+</span></td>
+                        
+
+                    </tr>
+
+        }
+                </tbody>
+                </table>
+        
+
+
